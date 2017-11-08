@@ -1,0 +1,6 @@
+<map id="ad713x_dev" name="ad713x_dev">
+<area shape="rect" id="node1" title="AD713x driver handler structure." alt="" coords="63,243,162,269"/>
+<area shape="rect" id="node2" href="$structgpio__desc.html" title="Structure holding the GPIO descriptor." alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node3" href="$structspi__desc.html" title="Structure holding SPI descriptor." alt="" coords="138,95,215,121"/>
+<area shape="rect" id="node4" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="111,5,242,32"/>
+</map>

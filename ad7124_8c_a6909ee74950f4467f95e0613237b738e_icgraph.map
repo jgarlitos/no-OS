@@ -1,0 +1,5 @@
+<map id="ad7124_no_check_write_register" name="ad7124_no_check_write_register">
+<area shape="rect" id="node1" title="Writes the value of the specified register without checking if the device is ready to accept user req..." alt="" coords="377,5,552,47"/>
+<area shape="rect" id="node2" href="$ad7124_8h.html#a803b466e1863f153e167ad3a9748ff6c" title="Writes the value of the specified register only when the device is ready to accept user requests...." alt="" coords="167,13,329,39"/>
+<area shape="rect" id="node3" href="$ad7124_8h.html#a107e99776838bf7bafd406572fb1708b" title="Initializes the AD7124." alt="" coords="5,13,119,39"/>
+</map>

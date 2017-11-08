@@ -1,0 +1,7 @@
+<map id="CLKGEN_CalcParams" name="CLKGEN_CalcParams">
+<area shape="rect" id="node1" title="CLKGEN_CalcParams." alt="" coords="696,31,852,57"/>
+<area shape="rect" id="node2" href="$zed_2cf__hdmi_8h.html#ad7ed39ffc8eb715f4e97bf46a798533c" title="CLKGEN_SetRate." alt="" coords="516,31,648,57"/>
+<area shape="rect" id="node3" href="$zed_2cf__hdmi_8h.html#ae8b541f78372409dc29cfcfdd9abfbb1" title="SetVideoResolution." alt="" coords="281,5,427,32"/>
+<area shape="rect" id="node4" href="$zed_2transmitter_8h.html#a8b3e85ee90b00b7bc69e6a9b8eaf8a88" title="Parse the new EDID segment." alt="" coords="240,56,468,83"/>
+<area shape="rect" id="node5" href="$zed_2transmitter_8h.html#a6005a5f4840e89a9954d28970bcb2f9c" title="Performs the notification operations." alt="" coords="5,56,192,83"/>
+</map>

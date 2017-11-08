@@ -1,0 +1,8 @@
+<map id="adpd188_init_param" name="adpd188_init_param">
+<area shape="rect" id="node1" title="Driver initialization structure." alt="" coords="52,288,205,315"/>
+<area shape="rect" id="node2" href="$structgpio__init__param.html" title="Structure holding the parameters for GPIO initialization." alt="" coords="5,184,129,211"/>
+<area shape="rect" id="node3" href="$unionadpd188__phy__init.html" title="Communication physical protocol initialization structure. Can be I2C or SPI." alt="" coords="153,184,288,211"/>
+<area shape="rect" id="node4" href="$structi2c__init__param.html" title="Structure holding the parameters for I2C initialization." alt="" coords="107,95,222,121"/>
+<area shape="rect" id="node5" href="$structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="246,95,361,121"/>
+<area shape="rect" id="node6" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="238,5,369,32"/>
+</map>

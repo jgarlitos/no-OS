@@ -1,0 +1,4 @@
+<map id="TRANSMITTER_SoftwareInit" name="TRANSMITTER_SoftwareInit">
+<area shape="rect" id="node1" title="Initializes the software parameters." alt="" coords="240,5,431,32"/>
+<area shape="rect" id="node2" href="$zed_2transmitter_8h.html#a6005a5f4840e89a9954d28970bcb2f9c" title="Performs the notification operations." alt="" coords="5,5,192,32"/>
+</map>

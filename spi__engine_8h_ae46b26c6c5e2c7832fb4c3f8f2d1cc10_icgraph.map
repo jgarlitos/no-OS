@@ -1,0 +1,5 @@
+<map id="spi_engine_offload_transfer" name="spi_engine_offload_transfer">
+<area shape="rect" id="node1" title="Initiate a SPI transfer in offload mode." alt="" coords="364,5,504,47"/>
+<area shape="rect" id="node2" href="$iio__ad713x_8c.html#ad4cff533f1b6bfdfe456a574ed302e23" title="Transfer data from device into RAM." alt="" coords="169,5,316,47"/>
+<area shape="rect" id="node3" href="$iio__ad713x_8h.html#a259a55182ae9a8bbf607f56a79f97f45" title="Initialization function." alt="" coords="5,13,121,39"/>
+</map>

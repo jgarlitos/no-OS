@@ -1,0 +1,6 @@
+<map id="drivers/axi_core/clk_axi_clkgen/clk_axi_clkgen.h" name="drivers/axi_core/clk_axi_clkgen/clk_axi_clkgen.h">
+<area shape="rect" id="node1" title="Driver for the Analog Devices AXI CLKGEN." alt="" coords="202,5,403,47"/>
+<area shape="rect" id="node2" href="$clk__axi__clkgen_8c.html" title="Driver for the Analog Devices AXI CLKGEN." alt="" coords="5,95,205,136"/>
+<area shape="rect" id="node3" href="$ad9371_2src_2app_2headless_8c.html" title="Implementation of Main Function." alt="" coords="229,95,377,136"/>
+<area shape="rect" id="node4" href="$app__clocking_8c.html" title="Clock setup and initialization routines." alt="" coords="401,95,561,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gpio_set_value" name="gpio_set_value">
+<area shape="rect" id="node1" title="Set the value of the specified GPIO." alt="" coords="213,5,331,32"/>
+<area shape="rect" id="node2" href="$platform__drivers_8c.html#ab6e33b3ae28def96cab851e522dac751" title="Enable the output direction of the specified GPIO." alt="" coords="5,5,165,32"/>
+</map>

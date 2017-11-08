@@ -1,0 +1,36 @@
+<map id="gpio_remove" name="gpio_remove">
+<area shape="rect" id="node1" title="Free the resources allocated by gpio_get()." alt="" coords="291,765,396,792"/>
+<area shape="rect" id="node2" href="$ad4110_8c.html#a5c0a4b76de2cd52fc34ce7a225534a12" title="Free the resources allocated by ad4110_setup()." alt="" coords="112,5,239,32"/>
+<area shape="rect" id="node3" href="$ad525x_8h.html#a30f65a3499d356a5bbb3da73a02141dc" title="Free the resources allocated by ad525x_init()." alt="" coords="113,56,238,83"/>
+<area shape="rect" id="node4" href="$ad5421_8h.html#a16d8163954a3daae3728d3235204ef95" title="Free the resources allocated by ad5421_init()." alt="" coords="112,107,239,133"/>
+<area shape="rect" id="node5" href="$ad5446_8h.html#a1813fc0c9d2fc22c4199fcbdc491cdda" title="Free the resources allocated by ad5446_init()." alt="" coords="112,157,239,184"/>
+<area shape="rect" id="node6" href="$ad5449_8h.html#ab4c945fde985a22be659ba7bcd5fff7d" title="Free the resources allocated by ad5449_init()." alt="" coords="112,208,239,235"/>
+<area shape="rect" id="node7" href="$ad5629r_8h.html#a33bafb0c4ae866cfeefd886961a16bd8" title="Free the resources allocated by AD5629R_Init()." alt="" coords="110,259,241,285"/>
+<area shape="rect" id="node8" href="$ad5686_8h.html#a01c30a52d97d90fc37d6968c5a640b33" title="Free the resources allocated by ad5686_init()." alt="" coords="112,309,239,336"/>
+<area shape="rect" id="node9" href="$ad5755_8h.html#ae7bdaa5df72a8a69bd9cf245f78f1904" title="Free the resources allocated by ad5755_init()." alt="" coords="112,360,239,387"/>
+<area shape="rect" id="node10" href="$ad5761r_8h.html#afabb448a67d99d1a2211ca1b0ee81058" title="Free the resources allocated by ad5761r_init()." alt="" coords="110,411,241,437"/>
+<area shape="rect" id="node11" href="$ad5766_8h.html#aabe5dd8f93eb21f992fa11b1531f07b7" title="Free the resources allocated by ad5766_init()." alt="" coords="112,461,239,488"/>
+<area shape="rect" id="node12" href="$ad5791_8h.html#a7ac0664e95ab4ec740557bb8029987e5" title="Free the resources allocated by ad5791_init()." alt="" coords="112,512,239,539"/>
+<area shape="rect" id="node13" href="$ad7193_8h.html#a2dfdcf5d3746f164543ec45266a35178" title="Free the resources allocated by ad7193_init()." alt="" coords="112,563,239,589"/>
+<area shape="rect" id="node14" href="$ad7280a_8h.html#a50e2f373842b3a68befe2779cdd07283" title="Free the resources allocated by AD7280A_Init()." alt="" coords="108,613,243,640"/>
+<area shape="rect" id="node15" href="$ad74xx_8h.html#aa3ff1c7de0d5ccb21c7892cca32fa609" title="Free the resources allocated by ad74xx_init()." alt="" coords="113,664,237,691"/>
+<area shape="rect" id="node16" href="$ad7779_8h.html#a0a4eb952ae0f57a0d91aaf73caf50ef9" title="Free the resources allocated by ad7779_init()." alt="" coords="112,715,239,741"/>
+<area shape="rect" id="node17" href="$ad7780_8h.html#af0b8895da568a47f0c811d976e1031e4" title="Free the resources allocated by ad7780_init()." alt="" coords="112,765,239,792"/>
+<area shape="rect" id="node18" href="$ad7980_8h.html#a355ef65aae7e442e85de8525a0137cd0" title="Free the resources allocated by ad7980_init()." alt="" coords="112,816,239,843"/>
+<area shape="rect" id="node19" href="$ad9081_8h.html#ae6c9ba82f71bfd479aaddf978884b6ad" title=" " alt="" coords="112,867,239,893"/>
+<area shape="rect" id="node20" href="$ad9172_8h.html#a338e732cc3c1357c3f8453e885cb112a" title=" " alt="" coords="112,917,239,944"/>
+<area shape="rect" id="node22" href="$ad9208_8h.html#afe4806de58aee266ffd9c2fb2a22a884" title=" " alt="" coords="112,968,239,995"/>
+<area shape="rect" id="node24" href="$ad9833_8h.html#a870b94b02e63585f01c08195244e1cb7" title="Free the resources allocated by ad9833_init()." alt="" coords="112,1019,239,1045"/>
+<area shape="rect" id="node25" href="$adf4106_8h.html#a993059f9922ef551649e7f08b198d241" title="Free the resources allocated by adf4106_init()." alt="" coords="110,1069,241,1096"/>
+<area shape="rect" id="node26" href="$adf4153_8h.html#aab4dd3843987b2f3479853a10cbdde53" title="Free the resources allocated by adf4153_init()." alt="" coords="110,1120,241,1147"/>
+<area shape="rect" id="node27" href="$adf4156_8h.html#abf4bf05084782e64e05a3b1c300eda92" title="Free the resources allocated by adf4156_init()." alt="" coords="110,1171,241,1197"/>
+<area shape="rect" id="node28" href="$adf4157_8h.html#a1ce6131e09bb6d04c3951f77c505dc26" title="Free the resources allocated by adf4157_init()." alt="" coords="110,1221,241,1248"/>
+<area shape="rect" id="node29" href="$adf7023_8h.html#a5029b20b57055ebb5f520d7d131b6851" title="Free the resources allocated by adf7023_init()." alt="" coords="110,1272,241,1299"/>
+<area shape="rect" id="node30" href="$no__os__hal_8c.html#a14ea9e6a6519852dbb8a3b6facc5da2c" title="Closes any platform hardware drivers, handles, etc that were necessary for the ADI Device." alt="" coords="111,1323,240,1349"/>
+<area shape="rect" id="node31" href="$adpd188_8h.html#ad498aa08ccb8f2c328fcc761f391738d" title="Initialize the ADPD188 driver." alt="" coords="123,1373,227,1400"/>
+<area shape="rect" id="node32" href="$adpd188_8h.html#a53db32d73e56848c5d0c9f91bda435c2" title="Free resources allocated by adpd188_init()." alt="" coords="108,1424,243,1451"/>
+<area shape="rect" id="node33" href="$fmcadc2_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="148,1475,203,1501"/>
+<area shape="rect" id="node34" href="$ad9371_2src_2devices_2adi__hal_2common_8h.html#a6c6e98d738efd440e2b814db7105be01" title=" " alt="" coords="109,1525,241,1552"/>
+<area shape="rect" id="node21" href="$ad9172_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,917,60,944"/>
+<area shape="rect" id="node23" href="$ad9208_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,968,60,995"/>
+</map>

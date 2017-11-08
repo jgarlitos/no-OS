@@ -1,0 +1,11 @@
+<map id="ad5770r_init_param" name="ad5770r_init_param">
+<area shape="rect" id="node1" title=" " alt="" coords="632,193,783,220"/>
+<area shape="rect" id="node2" href="$structad5770r__output__range.html" title=" " alt="" coords="286,8,454,35"/>
+<area shape="rect" id="node3" href="$structad5770r__alarm__cfg.html" title=" " alt="" coords="297,59,443,85"/>
+<area shape="rect" id="node4" href="$structad5770r__channel__switches.html" title=" " alt="" coords="273,143,467,169"/>
+<area shape="rect" id="node5" href="$structad5770r__dac__page__mask.html" title=" " alt="" coords="277,193,463,220"/>
+<area shape="rect" id="node6" href="$structad5770r__device__spi__settings.html" title=" " alt="" coords="296,245,444,286"/>
+<area shape="rect" id="node7" href="$structad5770r__monitor__setup.html" title=" " alt="" coords="283,311,457,337"/>
+<area shape="rect" id="node8" href="$structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="313,361,427,388"/>
+<area shape="rect" id="node9" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="5,361,136,388"/>
+</map>

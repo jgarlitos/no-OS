@@ -1,0 +1,11 @@
+<map id="drivers/afe/ad4110/ad4110.c" name="drivers/afe/ad4110/ad4110.c">
+<area shape="rect" id="node1" title=" " alt="" coords="107,5,249,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,71,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="95,95,163,121"/>
+<area shape="rect" id="node4" href="$ad4110_8h.html" title=" " alt="" coords="187,95,270,121"/>
+<area shape="rect" id="node9" href="$error_8h.html" title="Error codes definition." alt="" coords="294,95,358,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="193,244,264,271"/>
+<area shape="rect" id="node6" href="$delay_8h.html" title="Header file of Delay functions." alt="" coords="151,169,218,196"/>
+<area shape="rect" id="node7" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="242,169,303,196"/>
+<area shape="rect" id="node8" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="328,169,380,196"/>
+</map>

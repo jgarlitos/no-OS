@@ -1,0 +1,7 @@
+<map id="ad5686_init_param" name="ad5686_init_param">
+<area shape="rect" id="node1" title=" " alt="" coords="139,213,284,240"/>
+<area shape="rect" id="node2" href="$structgpio__init__param.html" title="Structure holding the parameters for GPIO initialization." alt="" coords="5,95,129,121"/>
+<area shape="rect" id="node3" href="$structi2c__init__param.html" title="Structure holding the parameters for I2C initialization." alt="" coords="154,95,269,121"/>
+<area shape="rect" id="node4" href="$structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="293,95,407,121"/>
+<area shape="rect" id="node5" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="285,5,415,32"/>
+</map>

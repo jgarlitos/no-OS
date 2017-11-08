@@ -1,0 +1,6 @@
+<map id="ad5446_dev" name="ad5446_dev">
+<area shape="rect" id="node1" title=" " alt="" coords="51,199,151,225"/>
+<area shape="rect" id="node2" href="$structgpio__desc.html" title="Structure holding the GPIO descriptor." alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node3" href="$structspi__desc.html" title="Structure holding SPI descriptor." alt="" coords="117,95,194,121"/>
+<area shape="rect" id="node4" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="90,5,221,32"/>
+</map>

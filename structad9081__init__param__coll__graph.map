@@ -1,0 +1,9 @@
+<map id="ad9081_init_param" name="ad9081_init_param">
+<area shape="rect" id="node1" title=" " alt="" coords="208,213,353,240"/>
+<area shape="rect" id="node2" href="$structgpio__init__param.html" title="Structure holding the parameters for GPIO initialization." alt="" coords="5,95,129,121"/>
+<area shape="rect" id="node3" href="$structclk.html" title=" " alt="" coords="529,95,568,121"/>
+<area shape="rect" id="node4" href="$structclk__hw.html" title=" " alt="" coords="543,213,605,240"/>
+<area shape="rect" id="node5" href="$structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="154,95,269,121"/>
+<area shape="rect" id="node6" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="146,5,277,32"/>
+<area shape="rect" id="node7" href="$structlink__init__param.html" title=" " alt="" coords="293,95,412,121"/>
+</map>

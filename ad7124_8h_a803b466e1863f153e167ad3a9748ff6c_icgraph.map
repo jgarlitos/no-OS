@@ -1,0 +1,4 @@
+<map id="ad7124_write_register" name="ad7124_write_register">
+<area shape="rect" id="node1" title="Writes the value of the specified register only when the device is ready to accept user requests...." alt="" coords="167,5,329,32"/>
+<area shape="rect" id="node2" href="$ad7124_8h.html#a107e99776838bf7bafd406572fb1708b" title="Initializes the AD7124." alt="" coords="5,5,119,32"/>
+</map>
